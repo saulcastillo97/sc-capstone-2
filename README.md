@@ -16,6 +16,10 @@ export FLASK_APP.app.py;
 ```
 Then run:
 ``` python
+python3 app.py
+```
+OR
+``` python
 flask run --reload
 ```
 
