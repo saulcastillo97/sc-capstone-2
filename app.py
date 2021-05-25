@@ -10,7 +10,7 @@ import requests ##
 import json
 import sys
 
-from auth.auth import AuthError, requires_auth
+from auth import AuthError, requires_auth#from auth.auth import AuthError, requires_auth
 
 ##---------------------------------------------------------------
 ## App initialization (Create and Config)
